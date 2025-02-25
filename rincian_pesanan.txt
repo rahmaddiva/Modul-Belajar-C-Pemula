@@ -1,0 +1,9 @@
+==========================================
+
+Rincian Pemesanan : 
+Nasi Goreng X 2
+Es Teh X 2
+----------------------------------------------
+Total pembayaran : Rp. 40000
+Terima Kasih Telah Memesan
+==========================================
